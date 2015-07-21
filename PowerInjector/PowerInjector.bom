@@ -1,0 +1,12 @@
+# PcbBOM Version 1.0
+# Date: Tue 21 Jul 2015 11:23:51 AM GMT UTC
+# Author: David
+# Title: (unknown) - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+1,"GSIP2","unknown",PWR 
+1,"ACY200","unknown",F1 
+1,"DO214AC","unknown",D1 
+3,"0805","100nF",C3 C1 C2 
+2,"BNC_LAY","unknown",SIGIN SIGOUT 
+1,"SRR7032","470uH",L1 

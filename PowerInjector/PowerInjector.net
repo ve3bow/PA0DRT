@@ -1,0 +1,6 @@
+unnamed_net5	F1-2 D1-2 
+unnamed_net4	PWR-1 D1-1 C3-2 
+unnamed_net3	C1-2 SIGOUT-1 
+GND	PWR-2 C3-1 SIGIN-2 C2-1 SIGOUT-2 
+unnamed_net2	SIGIN-1 C1-1 L1-1 
+unnamed_net1	C2-2 F1-1 L1-2 
